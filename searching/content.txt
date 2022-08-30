@@ -1,0 +1,4 @@
+Linear searching
+---hint --- use for loop and iterate to search
+Binary searching
+---code provided

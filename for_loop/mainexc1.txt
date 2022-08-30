@@ -1,0 +1,6 @@
+1. Write a java program to display the following message on the terminal
+"Hello'this is here"
+
+2. Display the following message by writing code in a single line -
+"Hello new line
+here"
