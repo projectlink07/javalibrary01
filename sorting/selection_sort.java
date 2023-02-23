@@ -10,6 +10,7 @@ public class selection_sort {
             for(int j = i+1;j<lng;j++){
                 if (myArray[j] < myArray[min]){
                     min = j;
+
                 }
             }
             temp = myArray[i];
